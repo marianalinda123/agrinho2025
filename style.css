@@ -19,12 +19,14 @@ header {
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
+
 }
 
 .logo-titulo {
   display: flex;
   align-items: center;
-  gap: 15px;
+  gap: 25px
+  ;
 }
 
 .logo-titulo img {
